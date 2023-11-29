@@ -1,0 +1,1 @@
+this file is created this is the line added using the 'fs.appendFile()'.this is the line added using the 'fs.appendFile()'.
